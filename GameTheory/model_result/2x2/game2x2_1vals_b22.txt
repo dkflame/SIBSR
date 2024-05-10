@@ -1,0 +1,6 @@
+###### expression: 
+[log(log(x1 + cos(log(x1))))*log(log(log(3*x1 + 0.54030230586814)))]
+###### pre-order traversal: 
+mul,log,log,log,add,x1,add,add,x1,cos,1.0,x1,log,log,add,cos,log,x1,x1
+###### training dataset NRMSE: 
+0.016311236003967448

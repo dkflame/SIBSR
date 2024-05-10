@@ -1,0 +1,2 @@
+target,variables,skeleton
+x1,['b11'],w1/(w2 + w3*b11)
