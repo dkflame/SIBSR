@@ -1,6 +1,6 @@
 # Side Information Boosted Symbolic Regression
 
-Side Information Boosted Symbolic Regression is a model enhanced from Deep Symbolic Optimization (DSO)[1, 2]. It incorporates side information into the Symbolic Regression task. Additionally, it includes a Side Information Generator, which can automatically generate side information if users are unsure about what side information to use.
+Side Information Boosted Symbolic Regression (SIBSR) is a model enhanced from Deep Symbolic Optimization (DSO)[1, 2]. It incorporates side information into the Symbolic Regression task. Additionally, it includes a Side Information Generator, which can automatically generate side information if users are unsure about what side information to use.
 
 ### Getting Started
 
